@@ -34,9 +34,9 @@
 #define NCFG_DEFAULT_PUMP_ON_MS      (1 * 60 * 1000UL) // 15 minutes of work
 #define NCFG_DEFAULT_PUMP_OFF_MS     (1 * 60 * 1000UL) // 45 minutes of rest
 
-#define NCFG_TG_BOT_TOKEN    "8658272866:AAFggBu3omH3h9oJyN36ftg46-VsAHSa4Ks" 
+#define NCFG_TG_BOT_TOKEN    "YOUR_BOT_TOKEN_HERE" 
 // Find your Chat ID (for example, from @userinfobot bot) so that only you can control it
-#define NCFG_TG_CHAT_ID      "541117451"    
+#define NCFG_TG_CHAT_ID      "YOUR_CHAT_ID_HERE"    
 #define NCFG_TG_POLL_TIME_MS 1000 // How often to check for new messages (1 sec)
 
 #endif // _CONFIG_H_
